@@ -9,3 +9,12 @@ Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh) API
 - Add pagination
 - Add get lyrics functionality and display in DOM
 
+
+
+
+
+
+
+
+
+
